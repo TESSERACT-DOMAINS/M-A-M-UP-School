@@ -710,7 +710,7 @@ a img.aligncenter {
 
 .box-slider .carousel-control-prev{
 	border-radius: 2px;
-	background: #eea412;
+	/* background: #eea412; */
 	position: absolute;
 	left: 0px;
 	font-size: 38px;
@@ -722,7 +722,7 @@ a img.aligncenter {
 }
 .box-slider .carousel-control-next{
 	border-radius: 2px;
-	background: #eea412;
+	/* background: #eea412; */
 	position: absolute;
 	right: 0px;
 	font-size: 38px;
@@ -731,6 +731,10 @@ a img.aligncenter {
 	height: 60px;
 	line-height: 20px;
 	opacity: 1;
+}
+
+.color-overlay {
+    color: #eea412;
 }
 
 .first-section .big-tagline a{
